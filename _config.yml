@@ -1,0 +1,25 @@
+
+# Syntax highlighting
+markdown: 			 redcarpet
+highlighter: 		 pyments
+
+# Permalinks
+permalink:           /:title
+relative_permalinks: true
+
+# Setup
+name:				 A Never-ending Dream
+title:               A Never-ending Dream
+tagline:             'Basic example of a Jekyll site with Sass enabled.'
+description:		 ''
+url:                 http://www.aneverendingdream.com
+baseurl:			 '/'
+
+author:
+  name:           	 'Vincent Chan'
+  url:            	 https://twitter.com/vincentchan
+
+# Server
+destination:      	 ./_site
+exclude:          	 [".editorconfig", ".gitignore", "bower.json", "composer.json", "CONTRIBUTING.md", "CNAME", "LICENSE", "Gruntfile.js", "package.json", "node_modules", "README.md", "sass", "haml"]
+port:             	 9001
