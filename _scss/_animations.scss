@@ -1,0 +1,11 @@
+//
+// Animations
+// --------------------------------------------------
+
+@mixin transition($speed, $prop:all, $ease:ease-in) {
+  -webkit-transition: $prop $speed $ease;
+  -moz-transition: $prop $speed $ease;
+  -ms-transition: $prop $speed $ease;
+  -o-transition: $prop $speed $ease;
+  transition: $prop $speed $ease;
+}

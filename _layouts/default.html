@@ -1,36 +1,55 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us" class="no-js">
     
   {% include head.html %}
   
   <body>
+    <!-- Target for toggling the sidebar '.sidebar-checkbox' is for regular
+     styles, '#sidebar-checkbox' for behavior. Credit: @mdo -->
+    <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
 
-    <div class="container">
-      <div class="site">
-        <div class="header">
-          <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-          <a class="extra" href="/">home</a>
-        </div>
+    {% include sidebar-nav.html %}
+
+    <div class="postWrapper">
+      {% include metabar.html %}
+      
+
+      <article>
+        <section class="section--first is-imageBackgrounded">
+          <div class="container">
+
+            {{ site.name }}
+            <a class="extra" href="/">home</a>
+
+          </div>
+        </section>
+        <section class="section--last">
+          <div class="container">
 
           {{ content }}
 
-        <div class="footer">
-          <div class="contact">
-            <p>
-              Your Name<br />
-              What You Are<br />
-              your@email.com
-            </p>
           </div>
-          <div class="contact">
-            <p>
-              <a href="http://github.com/yourusername/">github.com/yourusername</a><br />
-              <a href="http://twitter.com/yourusername/">twitter.com/yourusername</a><br />
-            </p>
+        </section>
+        <footer>
+          
+        </footer>
+      </article>
+
+      <div class="blockGroup">
+        <div class="blockGroup-list">
+          <div class="block">
+            <div class="block-postMeta"></div>
+            <div class="block-content">
+              <article class="postArticle postArticle--short">
+                
+              </article>
+            </div>
           </div>
         </div>
       </div>
-    </div> <!-- /container -->
 
+    </div> 
+    
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
   </body>
 </html>

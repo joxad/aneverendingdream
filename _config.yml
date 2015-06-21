@@ -1,7 +1,7 @@
 
 # Syntax highlighting
 markdown: 			 redcarpet
-highlighter: 		 pyments
+highlighter: 		 pygments
 
 # Permalinks
 permalink:           /:title

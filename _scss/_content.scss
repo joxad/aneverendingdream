@@ -1,0 +1,110 @@
+//
+// Content
+// --------------------------------------------------
+
+// Metabar
+//
+// Header with logo, navigation and sidebar-toggle
+
+.metabar {
+  display: block;
+  z-index: $zIndex-5--metabar;
+  width: 100%;
+  font-size: 14px;
+  color: rgba(0,0,0,0.3);
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  font-style: normal;
+  box-sizing: border-box;
+  pointer-events: none;
+}
+
+.metabar--top {
+  position: absolute;
+  top: 0;
+  height: 65px;
+
+  .metabar--bordered{
+    border-bottom: 1px solid rgba(0,0,0,0.05);
+  }
+}
+
+.metabar--white {
+  background: $metabar-top-bg;
+}
+
+.metabar-block {
+  pointer-events: auto;
+}
+
+.metabar-block:not(.metabar-center) {
+  position: relative;
+  z-index: $zIndex-5--metabar;
+}
+
+.metabar-center {
+  position: absolute;
+  left: 0;
+  right: 0;
+  text-align: center;
+  height: 100%;
+}
+
+.menuWrapper ul {
+  list-style: none;
+  position: relative;
+  float: left;
+  margin: 0;
+  padding: 0;
+
+  li {
+    position: relative;
+    float: left;
+    margin: 0;
+    padding: 0;
+  }
+
+  a {
+    display: block;
+    color: #333;
+    text-decoration: none;
+    padding: 0 15px;
+  }
+
+  ul {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: #fff;
+    padding: 0;
+  }
+}
+
+.list--avatarMenu {
+  
+  .list-item {
+    float: none;
+    width: 200px;
+  } 
+
+  a {
+    padding: 10px 15px;
+  }
+}
+
+.menuWrapper ul li:hover {
+  // display: block;
+  background: #000;
+
+  > ul.list--avatarMenu {
+    display: block;
+  }
+}
+
+
+// Post
+.postWrapper {
+  position: relative;
+  width: 100%;
+}

@@ -1,5 +1,5 @@
 //
-// Variables
+// Utilities
 // --------------------------------------------------
 //
 // Credit: Bootstrap 3
@@ -7,13 +7,13 @@
 // Floats
 // -------------------------
 
-.clearfix {
+.u-clearfix {
   @include clearfix();
 }
-.pull-right {
+.u-alignRight {
   float: right !important;
 }
-.pull-left {
+.u-alignLeft {
   float: left !important;
 }
 

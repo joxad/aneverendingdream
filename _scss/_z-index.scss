@@ -45,12 +45,13 @@ $zIndex-3--blockInsertControl:      $zIndex-3;
  
 $zIndex-5--figureOverlay:           $zIndex-5;
 $zIndex-5--highlightMenu:           $zIndex-5;
-$zIndex-5--metabar:                 $zIndex-5;
+$zIndex-5--metabar:                 $zIndex-5; // used
 $zIndex-5--profileAvatar:           $zIndex-5;
 $zIndex-5--noteRecommendations:     $zIndex-5;
 $zIndex-5--collectionLogo:          $zIndex-5;
  
-$zIndex-6--matterLogo:              $zIndex-6;
+$zIndex-6--sidebar:              		$zIndex-6; // used
+$zIndex-6--sidebar-toggle:          $zIndex-6; // used
 $zIndex-6--editorSidebar:           $zIndex-6;
 $zIndex-6--navOverlay:              $zIndex-6;
  
@@ -70,10 +71,3 @@ $zIndex-9--tooltip:                 $zIndex-9;
  
 $zIndex-10--dev:                    $zIndex-10;
  
- 
-// Z-Index Mobile-Notes
-// --------------------------------------------------
-$zIndex-5--mobileNotesOverlay:    $zIndex-5;
-$zIndex-6--mobileNotesHighlight:  $zIndex-6;
-$zIndex-7--mobileNotesContainer:  $zIndex-7;
-$zIndex-8--mobileNotesDismiss:    $zIndex-8;

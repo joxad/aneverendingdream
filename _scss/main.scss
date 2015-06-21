@@ -5,17 +5,21 @@
 @import "variables";
 @import "colors";
 @import "z-index";
+@import "animations";
 @import "mixins";
 
 // Typography
-@import "typebase";
-@import "type";
+@import "typography";
 
 // Core
+@import "global";
 @import "scaffolding";
 @import "grid";
 
 // Components
+@import "nav";
+@import "content";
+@import "responsive";
 
 // Utility classes
 @import "utilities";

@@ -1,0 +1,102 @@
+//
+// Navigation
+// --------------------------------------------------
+//
+// Credit: Sidebar Toggle inspired by Lanyon theme by @mdo
+
+// Sidebar nav
+
+.sidebar {
+  width: 14rem;
+  visibility: hidden;
+  overflow-y: auto;
+  font-size: .875rem;
+  color: rgba(255,255,255,.6);
+  background-color: #202020;
+  -webkit-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+}
+
+.sidebar--left {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: -14rem;
+}
+
+.postWrapper,
+.sidebar, 
+.sidebar-toggle {
+  -webkit-backface-visibility: hidden;
+  -ms-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.sidebar-checkbox {
+  display: none;
+}
+
+.sidebar-toggle {
+  position: absolute;
+  z-index: $zIndex-6--sidebar-toggle;
+  top: 1rem;
+  left: 1rem;
+  display: block;
+  width: 2.2rem;
+  padding: .5rem .65rem;
+  color: #505050;
+  background-color: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+
+  &:before {
+    display: block;
+    content: "";
+    width: 100%;
+    padding-bottom: .125rem;
+    border-top: .375rem double;
+    border-bottom: .125rem solid;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+} 
+
+@media (min-width: 30.1rem) {
+  .sidebar-toggle {
+    position: fixed;
+    width: 2.25rem;
+
+    &:before {
+      padding-bottom: .15rem;
+      border-top-width: .45rem;
+      border-bottom-width: .15rem;
+    }
+  }
+}
+
+// sidebar toggle behavior
+
+#sidebar-checkbox:checked ~ .sidebar,
+#sidebar-checkbox:checked ~ .postWrapper,
+#sidebar-checkbox:checked ~ .sidebar-toggle {
+  -webkit-transform: translateX(14rem);
+  -ms-transform: translateX(14rem);
+  transform: translateX(14rem);
+}
+
+#sidebar-checkbox:checked ~ .sidebar {
+  visibility: visible;
+}
+
+.sidebar-toggle:active, 
+#sidebar-checkbox:checked ~ .sidebar-toggle {
+  color: #fff;
+  background-color: #505050;
+}
+
+.postWrapper,
+.sidebar-toggle {
+  -webkit-transition: -webkit-transform .3s ease-in-out;
+  transition: transform .3s ease-in-out;
+}
