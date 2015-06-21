@@ -14,7 +14,7 @@ So when I saw some of the past Paypal employees [answering this question](http:/
 
 Below are some highlights of their answers. *If you want to check out the sources or leave your comments, please go to [here](http://www.quora.com/Why-did-so-many-successful-entrepreneurs-and-startups-come-out-of-PayPal) and [here](http://www.quora.com/What-strong-beliefs-on-culture-for-entrepreneurialism-did-Peter-Max-David-have-at-PayPal).
 
-##### On Talent Management
+#### On Talent Management
 
 “Peter and Max assembled an unusual critical mass of entrepreneurial talent, primarily due to _their ability to recognize young people with extraordinary ability_ (the median age of *execs* on the S1 filing was 30). But the poor economy allowed us to close an abnormal number of offers, as virtually nobody other than eBay and (in part) google was hiring in 2000-02.” (by [Keith Rabois](http://www.quora.com/Keith-Rabois), former Executive Vice President of Paypal)
 
@@ -28,7 +28,7 @@ Below are some highlights of their answers. *If you want to check out the source
 
 “**Self-sufficiency** – _individuals and small teams were given fairly complex objectives and expected to figure out how to achieve them on their own_. If you needed to integrate with an outside vendor, you picked up the phone yourself and called; you didn’t wait for a BD person to become available. You did (the first version of) mockups and wireframes yourself; you didn’t wait for a designer to become available. You wrote (the first draft of) site copy yourself; you didn’t wait for a content writer.” (by [Yee Lee](http://www.quora.com/Yee-Lee), former Product & BU GM of Paypal)
 
-##### On Culture & Ideology
+#### On Culture & Ideology
 
 “**Extreme bias towards action** – _early PayPal was simply a really *productive* workplace_. This was partly driven by the culture of self-sufficiency. PayPal is and was, after all, a web service; and the company managed to ship prodigious amounts of relatively high-quality web software for a lot of years in a row early on. Yes, we had the usual politics between functional groups, but either individual heroes or small, high-trust teams more often than not found ways to deliver projects on-time.” (by [Yee Lee](http://www.quora.com/Yee-Lee), former Product & BU GM of Paypal)
 

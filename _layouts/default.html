@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us" class="no-js">
-    
+
   {% include head.html %}
-  
+
   <body>
     <!-- Target for toggling the sidebar '.sidebar-checkbox' is for regular
      styles, '#sidebar-checkbox' for behavior. Credit: @mdo -->
@@ -12,26 +12,22 @@
 
     <div class="postWrapper">
       {% include metabar.html %}
-      
 
       <article>
         <section class="section--first is-imageBackgrounded">
           <div class="container">
-
-            {{ site.name }}
-            <a class="extra" href="/">home</a>
-
+            <p>{{ site.name }}<a class="extra" href="{{ site.baseurl }}/">home</a></p>
           </div>
         </section>
         <section class="section--last">
-          <div class="container">
+          <div class="container container--content">
 
           {{ content }}
 
           </div>
         </section>
         <footer>
-          
+
         </footer>
       </article>
 
@@ -41,15 +37,17 @@
             <div class="block-postMeta"></div>
             <div class="block-content">
               <article class="postArticle postArticle--short">
-                
+
               </article>
             </div>
           </div>
         </div>
       </div>
 
-    </div> 
-    
+    </div>
+
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    {% include footer-scripts.html %}
   </body>
 </html>

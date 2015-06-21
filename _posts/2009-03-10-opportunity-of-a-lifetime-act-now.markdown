@@ -25,7 +25,7 @@ So why entrepreneurs and startups can thrive in tough times and others not?
 
 Based on what Paul said, it seems that the state of the economy is not a major factor in startups survival. Not only that, bad times actually give entrepreneurs some advantages over big institutions.
 
-## Others are Fearful
+#### Others are Fearful
 
 _Fear makes people shortsighted_. A lot of businesses have been thinking a lot about cost saving and survival strategies which will weaken and damage their long term prospects.
 
@@ -35,7 +35,7 @@ In contrast, [P&G](http://en.wikipedia.org/wiki/Procter_%26_Gamble) increased th
 
 Moreover, entrepreneurs will face less competition. Competitors may go out of business. It’s the best time to increase market share. Using your creativity and imagination, you can also “make it big” during economic crisis.
 
-## Advantages of being Small
+#### Advantages of being Small
 
 Chaos always brings opportunity. [Don Dodge](http://dondodge.typepad.com/the_next_big_thing/) thinks that “startups have the advantage of being small and nimble. [They] can make changes quickly, find new ways to save customers money, and fill needs faster than big companies”.
 
@@ -45,13 +45,13 @@ Another key is to stay in the game as long as possible because the economy will 
 
 At the same time, it is important to let your customers know that you will work with them to create value, not only to give them a lower price.
 
-## Lower Cost
+#### Lower Cost
 
 Economic meltdown is bad for most big corporations but small startups can actually take advantage of the situation. After massive layoffs, many workers will become freelancers. They have to lower their prices in this tight competition. Entrepreneurs can then use their services at a lower cost.
 
 Besides, many resources, like office space, equipments, ad spaces, that a new startup needs will be available at lower prices. In addition to the low cost of [open source software](http://en.wikipedia.org/wiki/Open_source_software) and [SEM](http://en.wikipedia.org/wiki/Search_engine_marketing), entrepreneurs should be able to jump start their businesses in a less expensive way.
 
-## More Talents
+#### More Talents
 
 If we look at the history, some companies used difficult times to acquire their troops of talent.
 
@@ -61,7 +61,7 @@ Experienced engineers may get layoff. Talented fresh graduates may not able to g
 
 Like Robert Schuller said, “Tough times never last, but tough people do.”
 
-## Conclusion
+#### Conclusion
 
 Many great companies were born at a time when everyone thought the world was falling apart. Recession is the best time for startups. It could be an opportunity for a paradigm shift in our future.
 
@@ -71,7 +71,7 @@ We have to remember that recessions always end. In the book, “[Built to Last](
 
 If you have a good idea, act now!
 
-## Resources:
+#### Resources:
 
 [Jim Collins: How great companies turn crisis into opportunity](http://money.cnn.com/2009/01/15/news/companies/Jim_Collins_Crisis.fortune/)
 

@@ -11,7 +11,7 @@ In a very crowded market, it is very easy to fall into the trap of being Yet Ano
 
 Since Josh didn’t mention any possible solutions, I did a bit research and found the following tried and tested lessons from other startups.
 
-##### Be Different. No, Really Different.
+#### Be Different. No, Really Different.
 
 ![](http://blog.primitus.com/wp-content/uploads/2010/04/1.jpg "different")
 
@@ -21,13 +21,13 @@ Look at [LittleMissMatched](http://www.littlemissmatched.com), it has grown into
 
 Like Seth Godin said, _only products at the edge are worth talking about right now. Playing it safe will just lead to failure_.
 
-##### Making First Impression Memorable
+#### Making First Impression Memorable
 
 The lack of human touch on the Internet sometimes make people forget the importance of first impression. Ignoring this is one of the biggest mistakes a startup can make (source: [37signals](http://gettingreal.37signals.com/ch09_The_Blank_Slate.php)).
 
 So who are doing great in this area? Everyone knows about [Wufoo](http://wufoo.com), [Tumblr](http://tumblr.com) and [Vimeo](http://vimeo.com). How about [CD Baby](http://cdbaby.com)? Never heard of it? Me neither…until I’ve read the story about their [famous customer service emails](http://sharealike.org/index.php/2009/10/07/cd-babys-shipment-confirmation-email/). It’s such an unique experience and their customers love it so much. If you are a returned customer, your order confirmation email will start with, “When the neighborhood kids heard you have come back, all their faces press against the glass…”. It’s just genius! No wonder the founder was able to sell the company for US$22 million two years ago.
 
-##### Unique Personality
+#### Unique Personality
 
 Many startups forget they are in the story telling business. Good storytelling let your customers understand your product’s personality. So build a story that you want your customers to tell others. All of the following sites are related to photo/media sharing but each of them have their own personality:
 
@@ -43,7 +43,7 @@ So what’s the personality of your product? _Establishing an unique personality
 
 > 37signals: Your product has a voice – and it’s talking to your customers 24 hours a day.
 
-##### Build Attention into Your Product
+#### Build Attention into Your Product
 
 Sometimes with a little creativity and work, your product can get the attention your company desperately needs.
 
@@ -58,7 +58,7 @@ _He built buzz for his brand by using the anonymous data collected from its user
 
 Media love these kinds of interesting numbers. His company and product turn out showing up in New York Times, BBC, BusinessWeek, PCWorld and other major media outlets. Eventually, RescueTime closed their Series A round of funding for $900k in September 2008\. Not bad for a two and a half years old startup!
 
-##### Taking FULL Advantage of Your Users (aka: word of mouth)
+#### Taking FULL Advantage of Your Users (aka: word of mouth)
 
 ![](http://blog.primitus.com/wp-content/uploads/2010/04/kogi-bbq.jpg "kogi-bbq")
 

@@ -9,7 +9,7 @@ During the [interview](http://mixergy.com/direct-marketing-techniques-launch/) o
 
 Andrew believes that there are two communities of people in the business world. On one side, we have the “**Cool Kids**” who are always on TechCrunch, always have the latest iPhone, and always build the latest apps for Twitter. And then, we have the “**Internet Marketers**” on the other side. They are the ones making real money online but never get covered in mainstream media. They only focus on optimizing landing pages, testing different keywords, and utilizing direct marketing on Google.
 
-##### No More Larger-Than-Life Entrepreneurs
+#### No More Larger-Than-Life Entrepreneurs
 
 Knowing this fact makes me wonder if all those cool startups are doing business the right way. _Today many young entrepreneurs aim to build companies with the goal to sell them_. While looking for a quick exist strategy is nothing wrong, I seldom see young entrepreneurs who [define success on a very big scale](http://www.inc.com/magazine/20090401/in-times-like-these-you-get-a-chance_pagen_3.html), like Steve Jobs, Jeff Bezos, Howard Schultz…etc. I am talking about those who believe they can transform society and build great, lasting companies.
 
@@ -105,7 +105,7 @@ I am going to divide this series into 5 parts which will focus on (1) Leadership
 
 Let’s talk about **leadership and vision** today.
 
-##### Building a Multi-Decade Business Institution
+#### Building a Multi-Decade Business Institution
 
 **Vistaprint** was founded in Paris after its founder, Robert Keane, graduated from business school in 1995\. To many people, Vistaprint is just a typical online printing company. However, Robert has a much bigger vision. When asked about his company’s five years plan, he [replied](http://www.sramanamitra.com/2009/06/29/wwfrom-startup-to-500-million-vistaprint-ceo-robert-keane-part-6/):
 
@@ -119,7 +119,7 @@ I suspect not many people believe there could be more innovation from an industr
 
 What is the larger purpose of what your company is doing? Do you compromise that your industry is too small and saturated so you can’t make a difference? Consider when Vistaprint just got started. Thousands of printing stores were already existed. Robert was just selling their services through direct marketing catalogues, one customer at a time. And today his company is worth $1.84 billion with $400 million in revenue.
 
-##### World-Class Service
+#### World-Class Service
 
 Similarly, even though **Rackspace** is already a leader in a crowed and competitive industry, their founders believe they are more than a hosting company. Pat Condon once [said](http://www.hostsearch.com/interview/rackspace_managed_hosting_interview_october_2004.asp):
 
@@ -131,7 +131,7 @@ At that time, most of their competitors only focused on the technology end of ho
 
 How about your company? Have you turn good customer service into your competitive advantage? Do you just follow what your competitors are doing today? Since 1998, Rackspace has grown more than 50 percent a year and there are currently 1800 Rackers (their employees) around the world serving their customers with their award-winning support everyday. Their dedication to great service enables them to grow their business from a small startup to a $1.65 billion public company today. Yes they did that in 11 years only. If they can do it, so can you.
 
-##### Never Lose Faith
+#### Never Lose Faith
 
 During dot-com boom, most people doubt that a company like **OpenTable** will succeed. It is a capital intensive business and difficult to scale. Chuck Templeton, the founder, wanted to create an online real-time restaurant reservation service for consumers and later added a comprehensive reservation management system to replace existing paper reservation systems in every restaurants.
 
@@ -141,7 +141,7 @@ Yet, in order to do that, OpenTable has to conquer territory market-by-market, r
 
 Due to his determination, Opentable has grown to have a customer base of over 10,000 restaurants in 50 states and multiple countries, with $635 million market capital. And it is still keep growing one restaurant at a time.
 
-##### The Business of Changing the World
+#### The Business of Changing the World
 
 **Salesforce.com** is known for its concept of the “end of software” model and successfully transforming software from a product to a service industry. Similar to Vistaprint, OpenTable and Rackspace, this company believe nothing is more important to them than making sure every customer is successful in their service.
 

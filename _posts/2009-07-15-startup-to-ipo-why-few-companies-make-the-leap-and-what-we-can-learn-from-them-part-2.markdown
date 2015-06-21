@@ -13,7 +13,7 @@ As you can tell, leadership and vision alone won’t guarantee success. These fo
 
 Based on what I have learned from these four companies, I find out that, _as an entrepreneur, you don’t have to do everything right all the time. You just have to keep asking questions and try different solutions. Never lose your heart. And above all else, don’t ever give in_.
 
-##### Transforming from the Mail Order Catalogue Model
+#### Transforming from the Mail Order Catalogue Model
 
 ![microsoft-vistaprint](http://blog.primitus.com/wp-content/uploads/2009/07/microsoft-vistaprint1.jpg "microsoft-vistaprint")
 
@@ -31,7 +31,7 @@ Robert later [explained](http://www.sramanamitra.com/2009/06/25/wwfrom-startup-t
 
 > The idea was to give [the web publishing program] away free across the Internet and then utilize the Internet to conduct our direct marketing. We came up with a production technology where we aggregated orders together. Those three changes, in retrospect, were important in changing the trajectory of VistaPrint.
 
-##### Not Getting VC Money
+#### Not Getting VC Money
 
 In fact, there is one more major strategic move contributing to their survival. _Robert believes the fact that Vistaprint could not raise funding during the dot com crash actually saved the company_. At that time, a lot of Internet bubble companies raised huge amount of money helping them to live until 2002-2003\. When Vistaprint moved to the US in 2000, they could not raise money so they had to cut costs to keep profitability or they would go out of business. In other words, other companies did not have to face reality with their big venture capital money allowing them ignore operating costs and cash flow. Like Robert [said](http://www.sramanamitra.com/2009/06/25/wwfrom-startup-to-500-million-vistaprint-ceo-robert-keane-part-2/):
 
@@ -39,7 +39,7 @@ In fact, there is one more major strategic move contributing to their survival. 
 
 Imagine you were in Robert’s position, will you have the gut to change your business model and leave your best partner, Microsoft, when facing crises? Or you will just stay put and give in? We can easily see that “change” is deeply embedded in Vistaprint’s corporate culture. They did not satisfy to be a merely profitable firm. They always want to survive and thrive in the long term. Without proactively looking for the next opportunity, Vistaprint probably would remain a small company working with Microsoft. How about your company? Do you want your company to survive in the short term or grow in the long term? Given the current economic crisis, may be it is a good time for your company to change.
 
-##### Huge Consolidation and Commitment to True Profit
+#### Huge Consolidation and Commitment to True Profit
 
 ![rackspace-morganstanley](http://blog.primitus.com/wp-content/uploads/2009/07/rackspace-morganstanley1.jpg "rackspace-morganstanley")
 
@@ -49,7 +49,7 @@ While their richer rivals continued their wild spending on costly data centers, 
 
 As most people know, the hosting industry is extremely competitive, causing a lot of consolidations, bankruptcies and failures. Besides providing their excellent “[Fanatical Support](http://scale.cc/2009/07/05/startup-to-ipo-why-few-companies-make-the-leap-and-what-we-can-learn-from-them-part-1/)“, Rackspace has developed a principle of achieving “[true profit](http://money.cnn.com/magazines/fsb/fsb_archive/2006/11/01/8391420/index.htm)” which enables them to reach the top. _They defines true profit as a company’s operating profit (after taxes) minus its total annual cost of capital. The management has decided that if a project generated lower than 15% profit margin, they would just shut it down_.
 
-##### Rejecting a $20 Million Deal
+#### Rejecting a $20 Million Deal
 
 For example, Rackspace once sold a fast-growing, moneymaking subsidiary because it doesn’t meet the rule. They also passed a $20 million deal with Morgan Stanley which would put their little-known firm on the map. Their CEO [explained](http://money.cnn.com/magazines/fsb/fsb_archive/2006/11/01/8391420/index.htm):
 
@@ -59,7 +59,7 @@ The company believes this strict financial discipline has helped them to avoid t
 
 If you was the CEO of Rackspace, would you pass the chance to work for a respected giant company? Is your company really creating real wealth or just growing for its own sake? Are you focusing on the right projects that give you true profit? If not, your company probably is wasting money. And the costs for fixing these missteps could be very high.
 
-##### Slow Start
+#### Slow Start
 
 To many people, it is hard to believe **OpenTable** has survived the dot-com crash which put a lot of web companies out of business.
 

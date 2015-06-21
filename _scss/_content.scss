@@ -22,7 +22,7 @@
 .metabar--top {
   position: absolute;
   top: 0;
-  height: 65px;
+  height: 2 * $leading;
 
   .metabar--bordered{
     border-bottom: 1px solid rgba(0,0,0,0.05);
@@ -82,11 +82,11 @@
 }
 
 .list--avatarMenu {
-  
+
   .list-item {
     float: none;
     width: 200px;
-  } 
+  }
 
   a {
     padding: 10px 15px;
@@ -107,4 +107,5 @@
 .postWrapper {
   position: relative;
   width: 100%;
+  padding-top: 2 * $leading; // temp
 }

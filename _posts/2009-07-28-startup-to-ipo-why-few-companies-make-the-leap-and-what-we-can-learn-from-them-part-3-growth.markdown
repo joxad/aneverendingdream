@@ -9,7 +9,7 @@ Today’s business environment is extremely competitive, especially on the web. 
 
 After looking at the [leadership](http://scale.cc/2009/07/05/startup-to-ipo-why-few-companies-make-the-leap-and-what-we-can-learn-from-them-part-1/) and [obstacles](http://scale.cc/2009/07/15/startup-to-ipo-why-few-companies-make-the-leap-and-what-we-can-learn-from-them-part-2/) of these four elite “**Startup to IPO**” companies ([Vistaprint](http://vistaprint.com/), [Rackspace](http://rackspace.com), [OpenTable](http://opentable.com), [Salesforce.com](http://salesforce.com)), we are going to learn about their growth strategies which helped them to outgrow their competitors.
 
-##### Viral Programs & Product Expansion
+#### Viral Programs & Product Expansion
 
 ![free-biz-card](http://blog.primitus.com/wp-content/uploads/2009/07/free-biz-card1.jpg "free-biz-card")
 
@@ -23,7 +23,7 @@ To get a sense of just how quickly Vistaprint scale up in the early days, you ha
 
 And then in 2004, the company started going well beyond the business cards area and into all things related to small business marketing, which includes apparel, pens, magnets, brochures, presentation folders, logo design, graphic design, web sites design and even email marketing. This broad product expansion has fueled their extraordinary growth from 2006 to 2009, from $152 to $510 million in revenue. To ensure the high quality of their new products, the company is spending over $50 million on technology development this year, which is about 10% of their revenues.
 
-##### Not to Become a M&A Company
+#### Not to Become a M&A Company
 
 Oftentimes, large companies will consider using M&A (mergers and acquisitions) to increase market share, broaden product offerings, enter new markets, or even expand into new distribution channels. For a company like Vistaprint with $400 million revenue, even in a deep recession, they are obviously in a strong position to fuel its growth by deal making. Yet **Robert Kean** looks at M&A from [a different point of view](http://www.sramanamitra.com/2009/06/29/wwfrom-startup-to-500-million-vistaprint-ceo-robert-keane-part-6/):
 
@@ -33,13 +33,13 @@ _Rather than looking for innovation outside, Robert prefers internal new product
 
 Think about your company now. Are you looking for long-term organic growth or short-term profitable opportunities? Do you have the confident to do a marketing campaign on a very large scale, like Vistaprint’s “free business cards” offer? If your company is not growing anymore, is it the right time to expand your core business to a much wider variety of businesses? Today Vistaprint has over 1,600 employees worldwide, growing from 25 people in 2001\. I bet you can learn something from their success.
 
-##### Customized Solutions
+#### Customized Solutions
 
 Like Vistaprint, **Rackspace** also found that following industry norms may not be the best way to do business. Many hosting companies saw themselves as commodity and technology companies. _Yet Rackspace believes every customer is unique and has different business objectives_. In order to met those goals, Rackspace is writing custom Service Level Agreements (SLAs) for their customers to guarantee their quality of their services. Their co-founder, **Patrick Condon**, explained:
 
 > We’re beginning to work with customers to identify the specific business outcome or business process a customer is trying to fulfill with their Web infrastructure. We then work with them to write an SLA around this business process versus just the infrastructure portion of hosting. I think this is a dramatic shift from how hosting companies have guaranteed quality of service in the past. Customers need customized solutions developed specifically for their businesses. I think the way the industry is moving is more towards a service based model where the technology and specific hardware components become less relevant.
 
-##### Discipline to Achieve True Profit
+#### Discipline to Achieve True Profit
 
 In [previous post](http://scale.cc/2009/07/15/startup-to-ipo-why-few-companies-make-the-leap-and-what-we-can-learn-from-them-part-2/), we mentioned about Rackspace has developed a principle of achieving “[true profit](http://money.cnn.com/magazines/fsb/fsb_archive/2006/11/01/8391420/index.htm)“. It turns out that the same strategy has helped the company achieve significant growth.
 
@@ -51,7 +51,7 @@ He found that the marketing costs to bring in new clients were very high and cus
 
 Rackspace’s revenue has increased its revenue from $139 million to $532 million since 2005\. As you can tell, _focusing on true profit has helped Rackspace to avoid businesses that are wasting their resources and pay attention to areas that are generating real growth_. In your company, do you have any units that are giving you minimal return on its capital? If yes, can you relocate those resources to some other promising opportunities? For a startup, inefficient allocation of resources could kill your business. Do a due diligence on your business and find out the truth now.
 
-##### Making Your Customers Success
+#### Making Your Customers Success
 
 _Sometimes the best growth strategies are so simple and obvious that most people overlook them_. In 2005, **Salesforce.com’s** revenues has grown 77% and paying subscribers has increased from 267,000 to 308,000\. When asked about the reasons for the company’s continued success, **Marc Benioff**, the founder, simply replied:
 
@@ -61,7 +61,7 @@ Who does not know that business has to provide products that customers want? How
 
 > “We aren’t changing our playbook here: we work to make our customers successful. Success is the biggest predictor of loyalty.”
 
-##### Think Big
+#### Think Big
 
 Again, achieving growth sometimes does not need complex strategies. Wondering how a $5.3 billion company like Salesforce motivates itself to do better? It is as simple as thinking big. Marc never worries about competition as he believes the sky is the limit for his company. He once said:
 

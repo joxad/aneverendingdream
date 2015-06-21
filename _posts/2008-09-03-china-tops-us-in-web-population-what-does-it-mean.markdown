@@ -89,7 +89,7 @@ According to a report released by the [China Internet Network Information Center
 
 While these numbers seem to be very promising, the Internet business environment in China is actually a bit complicated because there are significant differences between the US and China markets. Let’s look at the China market now.
 
-**Demographic structure**
+#### Demographic structure
 
 Compare to the US, the net population in China is very young – _68.6% of the web users are under 30 years old, while 70% are above 30 in the United States._ Currently, the ratio of male to female is 57%:43%, closely related to the real China population. Based on the data from China State Statistics Bureau, the education level of male is higher than that of female but the gap is gradually being narrowed.
 
@@ -101,13 +101,13 @@ How about income? _74% of the net users in China earns less than RMB 2,000 per m
 
 After seeing these facts, I believe US Internet companies understand that in order to succeed in China, they need to adopt a totally different business model there. Needless to say, if you simply plan to translate your site to Chinese language and think you will have the same success in the US, it’s not possible for you to compete against the local leaders.
 
-**Internet Access**
+#### Internet Access
 
 While most Chinese surf the web at home (74.1%), _Internet cafes have become an important places for Internet access in recent years_. More than 39% of the users have accessed the net at Internet cafes and most of them are youngsters with a high school and below education.
 
 Unlike the US, _mobile phone is a popular surfing equipment in China_. Because of convenience, around 76 million people (~30% of total net population) have chosen to access the web through mobile phones. This number is expected to increase rapidly because 41% of the Chinese population, **>530 million people**, are already using mobile phones everyday. Despite the high cost, desktop PC still has the leading position among all equipments. Home is still the main place for users to get online. In addition, 87% of them have used desktop computers with broadband internet connection (China is the world’s No.1 broadband market).
 
-**Current Business Models**
+#### Current Business Models
 
 Below are the top online applications in China today:
 
@@ -450,7 +450,7 @@ Source: TrendsSpotting.com</small></td>
 
 </table>
 
-**The Reality in the Wild Wild West**
+#### The Reality in the Wild Wild West
 
 <div style="width:190px;margin: 3px;float:right;">![](http://aneverendingdream.com/images/083008-reality.png)</div>
 
@@ -464,7 +464,7 @@ According to BBC, _the whole China’s Internet economy has generated US$5.9 bil
 
 Another problem is the Great Firewall of China (GFW). Internet censorship in China is well known around the world. It is the government’s effort to neutralize critical online opinion. While I understand the purpose of this system, this will also limit the growth of the China Internet market. They even have virtual cops, [JingJing and ChaCha](http://en.wikipedia.org/wiki/Jingjing_and_Chacha), walk, bike or drive across your screen every 20 minutes to ask Internet users to stay away from illegal content and bad websites. I have to say this is actually a pretty innovative idea. Never heard something like this before.![:)](http://aneverendingdream.com/wp-includes/images/smilies/simple-smile.png)
 
-**Future Trend**
+#### Future Trend
 
 <div style="width:190px;margin: 3px;float:right;">![](http://aneverendingdream.com/images/083008-kids.png)</div>
 

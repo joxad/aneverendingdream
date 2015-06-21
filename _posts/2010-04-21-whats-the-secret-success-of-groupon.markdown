@@ -9,7 +9,7 @@ If you have never heard of [**Groupon**](http://groupon.com) recently, you proba
 
 So what are their secret weapons? What are they doing right? How are they gaining customers at such a rate? Let’s take a look.
 
-##### Crystal Clear Value Proposition
+#### Crystal Clear Value Proposition
 
 Groupon’s goal is clear: help introduce people to your business. Each coupon on the site has a predetermined minimum. If not enough people sign up for the deal to take effect, neither Groupon nor the business makes any money. Groupon makes money by getting a cut of these promotions from the retailers.
 
@@ -17,7 +17,7 @@ According to [Jeremy Liew](http://lsvp.wordpress.com/2010/04/08/how-can-startups
 
 When many retailers are struggling to survive in this economy, Groupon has become their savior. According to Andrew Mason, Groupon’s founder and CEO, [nearly all of their deals have succeeded](http://blogs.wsj.com/wallet/2009/08/11/finding-group-discounts-online/tab/article/) so far. And there is currently a 120 deals waiting list in Chicago alone. As you can tell, _Groupon uses collective buying to create a win-win for local businesses and their customers_. No wonder so many merchants are eager to participate.
 
-##### Built Virality inside the Product
+#### Built Virality inside the Product
 
 ![](http://blog.primitus.com/wp-content/uploads/2010/04/groupon-fb.jpg "groupon-fb")
 
@@ -29,7 +29,7 @@ _Their user acquisition costs? Zero._
 
 Groupon also invested a lot resources on customer service, from our help line to quick online response to customer issues. So customers are happy and continue to help Groupon reach new heights.
 
-##### Alternative to Traditional Advertising for Local Businesses
+#### Alternative to Traditional Advertising for Local Businesses
 
 Andrew wants people to treat Groupon like “[a city guide that offers promotions](http://econsultancy.com/blog/5017-q-a-groupon-s-andrew-mason)“. He wants to help people have fun in the city and save money using the tremendous power of group buying.
 
@@ -41,7 +41,7 @@ For local business owners, Groupon has become an alternative to traditional adve
 
 Moreover, because of those unbelievable prices, customers will [purchase something they’ve always wanted to try but never had the chance](http://money.blogs.time.com/2009/06/24/qa-with-groupon-com-founder-andrew-mason/), bringing a flood of new customers to local businesses, at least some of them will hopefully get hooked and become loyal clients eventually.
 
-##### Negative Working Capital
+#### Negative Working Capital
 
 In accounting:
 

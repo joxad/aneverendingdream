@@ -13,7 +13,7 @@ Growing a company from a startup to IPO sometimes requires more than ability and
 
 In this last post, we will look at how these four elite companies ([Vistaprint](http://vistaprint.com/), [Rackspace](http://rackspace.com/), [OpenTable](http://opentable.com/), [Salesforce.com](http://salesforce.com/)) differentiate and market themselves when they just got started.
 
-##### Pursue Customers that Competitors Hate
+#### Pursue Customers that Competitors Hate
 
 In the printing industry, companies usually hate to work with small business customers because of the low printing volume and low profit margin. They rather go after big companies which spend large amounts of money on printing. Yet VistaPrint had a different strategy. Their founder, **Robert Keane**, once said:
 
@@ -27,7 +27,7 @@ This free sample offer also built up the credibility of the company. So the cust
 
 Do your company and competitors ignore a portion of potential customers now? In fact, even President Obama targeted a tribe (young people, minorities and the poor) that were usually ignored by traditional candidates during his presidential campaign. _If you want to be successful in a crowded market, you have to be creative and do something very different from your competitors. Love the customers your competitors hate. They may just be the ones who help your company grow to the next level_.
 
-##### Must-Have Business
+#### Must-Have Business
 
 During tough times, if your company was a must-have business for your customers, I am sure your company will do pretty well. **OpenTable** happens to be that kind of business. Like AdWords and regular affiliate programs, OpenTable’s customers only have to pay for results providing an extraordinary lead-generation marketing tools for restaurants. Like [one of their customers said](http://money.cnn.com/magazines/fortune/fortune_archive/2006/07/24/8381685/index.htm):
 
@@ -39,7 +39,7 @@ Their system revolutionized the way that restaurants are managed and marketed, a
 
 The bottom line: [is your product a pain killer (got to have it) or a Vitamin (nice to have)](http://dondodge.typepad.com/the_next_big_thing/2008/03/does-your-start.html)? If you could create values to your customers during downturn, your company will be in a great position to continue to outpace the competition after the bad times.
 
-##### Specialize in Just One Thing
+#### Specialize in Just One Thing
 
 When asked the key to success for **Rackspace** to become the fastest-growing managed hosting company, Pat Condon, the cofounder, believes their customers have chosen Rackspace because of their sharp focus.
 
@@ -53,7 +53,7 @@ For Rackspace, _some of their most effective marketing actually came from servin
 
 Rackspace has proven that the most effective marketing strategy sometimes just doesn’t cost you that much. How do your customers feel about your company? Do they have a positive impression of your business now? Do they recommend your services to others? If you want to find out these answers, creating [a customer development survey](http://survey.io/) probably can help you get started.
 
-##### Strong Relationship with the Media
+#### Strong Relationship with the Media
 
 **Salesforce.com**, on the other hand, uses a totally different approach in marketing. They do marketing on the cheap through public relations and creating buzz. The company has a reputation of being able to work the media very well, especially for the founder, **Marc Benioff**. He is very outspoken and not afraid to take on their giant competitors like Microsoft, SAP and Oracle. He once said:
 
@@ -65,7 +65,7 @@ Besides disparaging large competitors as dinosaurs, 20th century fossils and mon
 
 After all, does your company have a position in the market? Are you trying to be [all things to all people](http://gettingreal.37signals.com/ch04_Make_Opinionated_Software.php)? Find the customers who share your vision and stop blindly follow your competitors in the industry.
 
-##### Conclusion
+#### Conclusion
 
 After this post series, we have heard consistently that their leaders have defined success on a very big scale. And it seems they are all using similar but actually different approaches to achieve their success. So stop looking for the silver bullet now. There are million ways to scale your business rapidly. Find your dream and fight for it till the end (hopefully).
 

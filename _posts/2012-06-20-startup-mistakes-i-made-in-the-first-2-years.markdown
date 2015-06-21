@@ -9,7 +9,7 @@ It has been quite a [journey](http://primitus.tumblr.com/) since I wrote my last
 
 But at the same time, I’ve also made every textbook mistake along the way. That’s why I want to dust myself off here and talk openly about my failures so that other entrepreneurs can learn from them and I can become a better startup entrpreneur going forward.
 
-## You don’t get “A” for effort
+#### You don’t get “A” for effort
 
 After consistently working until 3-4 am 6 days a week for more than two years, I realize that I’ve been over-relying on my perseverance to be my startup’s biggest competitive advantage. It may be great if startup is a competition in working hours. But it’s actually more like a marathon. You not only have to keep running but also need to run it smart. It’s naive to think that I may have a better chance to succeed just because I stay at work a few hours longer than anyone else. Like Seth Godin said, _when you turn intellectual work into factory work, you’re only [racing to the bottom](http://sethgodin.typepad.com/seths_blog/2011/11/your-competitive-advantage.html)_.
 
@@ -17,7 +17,7 @@ To be more effective, I need to constantly remind myself the difference between 
 
 It’s true that some [smart entrepreneurs](http://ryancarson.com/post/21708810513/4-day-week) can pull it off by only working 4 days a week AND in remote locations. But I guess my personality can never fit into that type of management style. In fact, I’m fine with working longer and harder. I just need to make sure my “actions” are making REAL measurable progress.
 
-## Successful bootstrapping is an art, not a science
+#### Successful bootstrapping is an art, not a science
 
 When you are a first time entrepreneur building a company in a place that a startup ecosystem is virtually non-existent, bootstrapping is your only option. Obviously, using consulting to bootstrap your startup has its benefits. It allows you to control your destiny, slowly build traction and have better investment terms down the road. And there are many [successful examples](http://www.softwarebyrob.com/2011/09/01/ten-highly-successful-bootstrapped-startups/) to prove that it is doable.
 
@@ -29,7 +29,7 @@ In the past two years, I only saw a handful of companies that could make the tra
 
 _Remember that client project is a lot like drugs. Once you become addicted to it, it will be difficult to pull yourself out in a continued downward spiral._ You need to remind yourself that bootstrapping is only a survival tactic for not dying along the way. A startup should shoot for the moon. Like Paul Graham said, when your company fully slides into consulting, you have turn into a different kind of business and [it’s not a startup anymore](http://www.paulgraham.com/ramenprofitable.html).
 
-## Overlooked distribution
+#### Overlooked distribution
 
 According to [Peter Thiel](http://blakemasters.tumblr.com/post/22405055017/peter-thiels-cs183-startup-class-9-notes-essay), “Poor distribution – not product – is the number one cause of failure. If you can get even a single distribution channel to work, you have great business.” Still, I only allocated less than 10% of our resources on distribution in the past two years. My engineering bias blinded me to the simple fact that even if you have a remarkable product, you still have to tell people about it. And worst of all, marketing was always the last thing I did, making it even harder to solve the problem. _[Marketing should be the first thing we do, not the last.](http://sethgodin.typepad.com/seths_blog/2012/03/when-should-we-add-marketing.html)_
 
@@ -39,7 +39,7 @@ After all, without marketing, it’s not a business at all.
 
 As a startup, I don’t have money for big advertising, so going forward I have to learn to rely on tactics like [Guerrilla Marketing](http://ecorner.stanford.edu/authorMaterialInfo.html?mid=2988) and [Inbound Marketing](http://blog.hubspot.com/blog/tabid/6307/bid/4416/Inbound-Marketing-the-Next-Phase-of-Marketing-on-the-Web.aspx). These are incredibly valuable skills that will serve us well no matter how big the business grows.
 
-## Did not get customer validation
+#### Did not get customer validation
 
 Although I’ve read countless blog posts and books regarding [Lean Startup](http://theleanstartup.com) and [Customer Development](http://steveblank.com/category/customer-development/), I still failed to consistently put the following ideas into actions.
 
@@ -55,7 +55,7 @@ How can I improve this weakness? I need to be [more serious about experiment](
 
 If an experiment is not measured to validate the product hypotheses, why waste time doing it?
 
-## Underestimated the importance of an ecosystem
+#### Underestimated the importance of an ecosystem
 
 When I returned to Hong Kong from the United States two years ago, I naively thought that, with determination and persistence, you could build a successful technology company anywhere in the world. Well, I was so wrong. While there are [some](http://6waves.com) [successful](http://lakoo.com) [startups](http://9gag.com) coming out of Hong Kong, they all have to move out of this city into bigger markets at some point. Without a proper ecosystem, it creates additional challenges for entrepreneurs, especially for pre-traction startups going through the bootstrapping route.
 
@@ -76,7 +76,7 @@ But in reality, you can find none of the above in Hong Kong.
 
 Recently, I had the chance to meet with [Joel Gascoigne](http://joel.is), founder of [Buffer](http://www.bufferapp.com), who is temporarily staying in Hong Kong. I’ve learned so much from him just by bouncing ideas and challenges off each other. This experience reinforced my belief that I need to find a way to move back to Silicon Valley. _Like Reid Hoffman said “(startup) is not a go-and-read-everything strategy. You’d die before you could pull that off”. Learn to leverage your network._
 
-## Ignored founder/market fit
+#### Ignored founder/market fit
 
 According to [David Lee](http://techcrunch.com/2011/06/03/svangel-peak-age-old-entrpreneurs/), founder/market fit means the founders have a deep understanding of the market they are entering, and are people who can “personify their product, business and ultimately their company.” It is also the [best predictor](http://cdixon.org/2011/06/19/foundermarket-fit/) of whether a startup will eventually achieve product/market fit.
 
@@ -90,7 +90,7 @@ Without founder/market fit, people cannot feel passion in your products, which 
 
 No matter what idea I’m going to do next, I not only need to think long and hard about “what to do” but also ask myself “why am I working on this idea?” If I can’t find a compelling “why”, I probably should rethink again. _The bottom line: founders need to LOVE their market._
 
-## Conclusion
+#### Conclusion
 
 Having said that, it is not like we didn’t do anything right. We’ve built a team that I feel they are the best in the world and can do anything with hard work. We’ve picked up Agile Software Development practices. And most importantly, we build [a team that ships](http://startupboy.com/2012/04/27/build-a-team-that-ships/). These are all important future assets.
 
