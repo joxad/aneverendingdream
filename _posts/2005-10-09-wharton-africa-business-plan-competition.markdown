@@ -3,6 +3,11 @@ layout: post
 title:  "Wharton Africa Business Plan Competition"
 date:   2005-10-09 01:00:00
 categories: entrepreneurship
+image:
+  feature: wharton.jpg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
 ---
 
 I always believe a great business plan is indispensable to a successful corporation. I have tried a lot of methods to learn more about how to write a winning business plan. But this is not a simple task. You have to write something to ask some strangers, venture capitalists, to invest big money in your company, and most importantly, you may not have a chance to meet and convince those investors if they think your executive summary is not good enough. Thus the business plan is very significant for the success of funding.

@@ -1,0 +1,73 @@
+
+    ___       _   __                                   ___
+   /   |     / | / /__ _   _____  ________  ____  ____/ (_)___  ____ _
+  / /| |    /  |/ / _ \ | / / _ \/ ___/ _ \/ __ \/ __  / / __ \/ __ `/
+ / ___ |   / /|  /  __/ |/ /  __/ /  /  __/ / / / /_/ / / / / / /_/ /
+/_/  |_|  /_/ |_/\___/|___/\___/_/   \___/_/ /_/\__,_/_/_/ /_/\__, /
+                                                             /____/
+    ____
+   / __ \________  ____ _____ ___
+  / / / / ___/ _ \/ __ `/ __ `__ \
+ / /_/ / /  /  __/ /_/ / / / / / /
+/_____/_/   \___/\__,_/_/ /_/ /_/    Hand-crafted since 2005
+
+
+The humans.txt file explains the technology, and graphic assets
+behind this site.
+
+_______________________________________________________________________________
+
+PEOPLE
+
+This website was hand-crafted by:
+
+Vincent Chan
+Interaction design, visual design, content, web development
+http://www.twitter.com/vincentchan
+
+_______________________________________________________________________________
+
+TECHNOLOGY
+
+Jekyll
+http://jekyllrb.com/
+
+jQuery
+http://jquery.com/
+
+imagesLoaded
+https://github.com/desandro/imagesloaded
+
+Sass
+http://sass-lang.com/
+
+SUIT CSS (styling methodology)
+https://suitcss.github.io/
+
+gulp.js
+http://gulpjs.com/
+
+Browsersync
+http://www.browsersync.io/
+
+Github
+https://github.com/
+
+_______________________________________________________________________________
+
+GRAPHIC ASSETS
+
+Roboto (font)
+https://www.google.com/fonts/specimen/Roboto
+
+Myriad Pro (font)
+https://typekit.com/fonts/myriad-pro
+
+Source Serif Pro (font)
+https://www.google.com/fonts/specimen/Source+Serif+Pro
+
+Entypo (icons)
+http://www.entypo.com/
+
+Streamline (icons)
+http://www.streamlineicons.com/

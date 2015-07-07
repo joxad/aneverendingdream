@@ -3,6 +3,11 @@ layout: post
 title:  "An Inconvenient Truth"
 date:   2006-07-20 01:00:00
 categories: life
+image:
+  feature: inconvenient-truth.jpg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
 ---
 
 Sorry that this post is not about business or any related topics. But this issue is directly related to us.

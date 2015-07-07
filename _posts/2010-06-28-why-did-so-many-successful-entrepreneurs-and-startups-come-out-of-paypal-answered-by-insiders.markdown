@@ -3,6 +3,11 @@ layout: post
 title:  "Why did so many successful entrepreneurs and startups come out of PayPal? Answered by Insiders"
 date:   2010-06-28 01:00:00
 categories: startup
+image:
+  feature: paypal-mafia.jpg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
 ---
 
 ![](http://blog.primitus.com/wp-content/uploads/2010/06/paypal.png "paypal")  

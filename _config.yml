@@ -8,12 +8,12 @@ permalink:           /:title
 relative_permalinks: true
 
 # Setup
-name:				 A Never-ending Dream
+name:				         A Never-ending Dream
 title:               A Never-ending Dream
-tagline:             'Basic example of a Jekyll site with Sass enabled.'
-description:		 ''
+tagline:             'learning how to build a lasting company'
+description:         'learning how to build a lasting company'
 url:                 http://www.aneverendingdream.com
-baseurl:			 '/'
+baseurl:             '/'
 
 author:
   name:           	 'Vincent Chan'
@@ -23,3 +23,11 @@ author:
 destination:      	 ./_site
 exclude:          	 [".editorconfig", ".gitignore", "bower.json", "composer.json", "CONTRIBUTING.md", "CNAME", "LICENSE", "Gruntfile.js", "package.json", "node_modules", "README.md", "sass", "haml"]
 port:             	 9001
+
+defaults:
+  -
+    scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "default"

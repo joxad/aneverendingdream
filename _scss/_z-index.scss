@@ -8,10 +8,12 @@
 // scoped z-index values.
 //
 // Credit: Medium.com's z-index scale
- 
- 
+
+
 // Z-Index Scale (private vars)
 // --------------------------------------------------
+$zIndex-neg2:   -200;
+$zIndex-neg1:   -100;
 $zIndex-1:   100;
 $zIndex-2:   200;
 $zIndex-3:   300;
@@ -22,52 +24,32 @@ $zIndex-7:   700;
 $zIndex-8:   800;
 $zIndex-9:   900;
 $zIndex-10: 1000;
- 
- 
+
+
 // Z-Index Applications
 // --------------------------------------------------
-$zIndex-1--screenForeground:        $zIndex-1;
-$zIndex-1--followUpVisibility:      $zIndex-1;
-$zIndex-1--prlWelcome:              $zIndex-1;
-$zIndex-1--appImageDropdown:        $zIndex-1;
-$zIndex-1--surfaceUnder:            $zIndex-1;
-$zIndex-1--blockGroup:              $zIndex-1;
- 
-$zIndex-2--surfaceOver:             $zIndex-2;
-$zIndex-2--imagePickerControl:      $zIndex-2;
-$zIndex-2--collectionCardButton:    $zIndex-2;
-$zIndex-2--blockGroupButtonGroup:   $zIndex-2;
-$zIndex-2--blockGroupFocused:       $zIndex-2;
-$zIndex-2--blockGroupOverlay:       $zIndex-2;
- 
-$zIndex-3--caption:                 $zIndex-3;
-$zIndex-3--blockInsertControl:      $zIndex-3;
- 
-$zIndex-5--figureOverlay:           $zIndex-5;
-$zIndex-5--highlightMenu:           $zIndex-5;
-$zIndex-5--metabar:                 $zIndex-5; // used
-$zIndex-5--profileAvatar:           $zIndex-5;
-$zIndex-5--noteRecommendations:     $zIndex-5;
-$zIndex-5--collectionLogo:          $zIndex-5;
- 
-$zIndex-6--sidebar:              		$zIndex-6; // used
-$zIndex-6--sidebar-toggle:          $zIndex-6; // used
-$zIndex-6--editorSidebar:           $zIndex-6;
-$zIndex-6--navOverlay:              $zIndex-6;
- 
-$zIndex-7--nav:                     $zIndex-7;
- 
-$zIndex-8--transitioningContainer:  $zIndex-8;
-$zIndex-8--panel:                   $zIndex-8;
-$zIndex-8--butterBar:               $zIndex-8;
-$zIndex-8--loadingBar:              $zIndex-8;
-$zIndex-8--zoomOverlay:             $zIndex-8;
- 
-$zIndex-9--zoomOverlayTarget:       $zIndex-9;
-$zIndex-9--navOverlayTouch:         $zIndex-9;
-$zIndex-9--overlay:                 $zIndex-9;
-$zIndex-9--dialog:                  $zIndex-9;
-$zIndex-9--tooltip:                 $zIndex-9;
- 
-$zIndex-10--dev:                    $zIndex-10;
- 
+$zIndex-neg2--carousel-backgroundImg:   $zIndex-neg2;
+
+$zIndex-neg1--section-gradient:         $zIndex-neg1;
+
+$zIndex-1--section-title:               $zIndex-1;
+
+$zIndex-4--post-wrapper:                $zIndex-4;
+$zIndex-4--posts-wrapper:               $zIndex-4;
+
+$zIndex-5--metabar:                     $zIndex-5;
+$zIndex-5--sidebar-toggle-wrapper:      $zIndex-5;
+$zIndex-5--textlogo-frontpage:          $zIndex-5;
+$zIndex-5--tagline-frontpage:           $zIndex-5;
+$zIndex-5--modal-toggle-bubbleshadow:   $zIndex-5;
+
+$zIndex-6--sidebar-toggle:              $zIndex-6;
+$zIndex-6--modal-toggle-bubble:         $zIndex-6;
+$zIndex-6--modal-toggle-close:          $zIndex-6;
+
+$zIndex-7--modal-toggle-group:          $zIndex-7;
+$zIndex-7--modal-toggle-wrapper:        $zIndex-7;
+
+$zIndex-8--fullscreen-modal:            $zIndex-8;
+
+$zIndex-9--sidebar:              		    $zIndex-9;

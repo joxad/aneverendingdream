@@ -3,6 +3,11 @@ layout: post
 title:  "Startup to IPO: Why Few Companies Make the Leap and What We Can Learn from Them (Part 3: Growth)"
 date:   2009-07-28 01:00:00
 categories: startup
+image:
+  feature: rackspace.jpg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
 ---
 
 Today’s business environment is extremely competitive, especially on the web. Simply building a good product, a strong brand or great distribution won’t guarantee your company success. You also have to do some or all of these things better than your competitors.

@@ -3,6 +3,11 @@ layout: post
 title:  "Startup to IPO: Why Few Companies Make the Leap and What We Can Learn from Them (Part 2: Obstacles)"
 date:   2009-07-15 01:00:00
 categories: startup
+image:
+  feature: vistaprint.jpg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
 ---
 
 This is the second installment of the “**Startup to IPO**” series. [Last time we talked about](http://scale.cc/2009/07/05/startup-to-ipo-why-few-companies-make-the-leap-and-what-we-can-learn-from-them-part-1/) how [Vistaprint](http://vistaprint.com), [Rackspace](http://rackspace.com), [OpenTable](http://opentable.com) and [Salesforce.com](http://salesforce.com) have distinguished themselves as a very special and elite breed of institutions. Now we will look at the obstacles these companies have faced and how they overcame each of them.

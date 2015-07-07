@@ -3,6 +3,11 @@ layout: post
 title:  "China: So Many Billionaires, So Few Great Global Corporations"
 date:   2006-09-26 01:00:00
 categories: industry
+image:
+  feature: monopoly.jpg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
 ---
 
 I always have a question in my mind: “Why do so few Chinese companies reach the top of the global business world?” In my definition, a great global corporation should be able to do more than just making profits. _“Profit is like oxygen, food, water, and blood for the body; they are not the POINT of life” (Jim Collins)_. A great global corporation should have a purpose beyond profit, for example, 3M (innovation), GE (improving the quality of life), Sony (to elevate the Japanese culture and national status), P&G (product excellence), IKEA (good design and function at low prices), Disney (to bring happiness)…etc.

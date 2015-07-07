@@ -3,6 +3,11 @@ layout: post
 title:  "The Amazing Story Behind Red Bull"
 date:   2008-07-10 01:00:00
 categories: entrepreneurship
+image:
+  feature: redbull.jpg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
 ---
 
 Few days ago, I read [an article](http://pdfmenot.com/view/http://www.redbull.com/images/historysection/pdf/1/Selling_Power_DM_Sept.pdf) about the energy drink company – [Red Bull](http://www.redbull.com). I was totally shocked and amazed after reading it because I didn’t pay much attention to this company in the past. The only thing I knew about Reb Bull was that it’s an energy drink that can help you stay awake at night. How on earth do I know the story behind this company is so inspiring?  

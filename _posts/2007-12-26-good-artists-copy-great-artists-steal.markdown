@@ -3,6 +3,11 @@ layout: post
 title:  "Good Artists Copy, Great Artists Steal"
 date:   2007-12-26 01:00:00
 categories: industry
+image:
+  feature: artist.jpg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
 ---
 
 Just reading this news: “[Tokyo Seeking a Top Niche in Global Finance](http://www.nytimes.com/2007/11/16/business/worldbusiness/16capital.html)” on New York Times recently.

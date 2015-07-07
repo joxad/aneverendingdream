@@ -1,9 +1,46 @@
-<!--
+<!-- Javascript -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="{{ site.baseurl }}assets/javascripts/imagesloaded.pkgd.min.js"></script>
+
 <script>
-// Baseliner helps debug.
-// From http://keyes.ie/things/baseliner/
-(function(){
-  var _grid_height=33; // This is the space between "baselines".
-  if(window.baseliner){baseliner.toggle();}else{var _already_loaded=document.getElementById('baseliner-script');if(_already_loaded){return;};var _baseliner=document.createElement('script');_baseliner.id='baseliner-script';_baseliner.type='text/javascript';_baseliner.src='http://files.keyes.ie/things/baseliner/baseliner-latest.min.js';document.getElementsByTagName('body')[0].appendChild(_baseliner);var loadFunction=function(evt){if(window.baseliner){return;};baseliner=new Baseliner(_grid_height);baseliner.toggle();};_baseliner.onreadystatechange=loadFunction;_baseliner.onload=loadFunction;};})();
+  $(document).ready(function(){
+
+    // Featured image loaded behavior
+    $('.section-backgroundImage img').imagesLoaded()
+      .done( function( instance ) {
+        $('.post-featuredImage').addClass('is-loaded');
+      });
+
+    // Modal toggle behavior
+    $('.modal-toggle-wrapper').click(function() {
+    	$(this).toggleClass('active');
+      $('.modal-toggle-bubble').toggleClass('active');
+    	$('.modal-toggle-bubbleShadow').toggleClass('active');
+      $('.modal-toggle-close-wrapper').toggleClass('active');
+      $('.fullscreenModal').toggleClass('active');
+    });
+
+    // Prevent default anchor event and make a share popup
+    $.fn.sharePopup = function (e, intWidth, intHeight, blnResize) {
+
+      e.preventDefault();
+      intWidth = intWidth || '750';
+      intHeight = intHeight || '500';
+      strResize = (blnResize ? 'yes' : 'no');
+
+      //// Set title and open popup with focus on it
+      var strTitle = ((typeof this.attr('title') !== 'undefined') ? this.attr('title') : 'Social Share'),
+          strParam = 'width=' + intWidth + ',height=' + intHeight + ',resizable=' + strResize,
+          objWindow = window.open(this.attr('href'), strTitle, strParam).focus();
+    }
+
+    $('.shareButton').on("click", function(e) {
+      $(this).sharePopup(e);
+    });
+  });
+
+  // Show modal toggle after scrolling 300px
+  $(document).scroll(function() {
+    $('.modal-toggle-group').toggleClass('active', $(document).scrollTop() >= 300);
+  });
 </script>
--->

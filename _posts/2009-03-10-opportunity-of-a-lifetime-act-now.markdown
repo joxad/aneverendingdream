@@ -3,6 +3,11 @@ layout: post
 title:  "Opportunity of a Lifetime: Act Now"
 date:   2009-03-10 01:00:00
 categories: entrepreneurship
+image:
+  feature: lifetime-opportunity.jpg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
 ---
 
 What do Entrepreneurs and [U.S. President Barack Obama](http://en.wikipedia.org/wiki/Obama) have in common?

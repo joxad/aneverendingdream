@@ -3,6 +3,11 @@ layout: post
 title:  "Is Your Product Attention Deficit?"
 date:   2010-04-20 01:00:00
 categories: product
+image:
+  feature: attention.jpg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
 ---
 
 Recently [Josh Kopelman](http://www.linkedin.com/in/jkopelman), the founder of Half.com and Managing Director of [First Round Capital](http://firstround.com), [argued](http://redeye.firstround.com/2010/04/everyone-i-spoke-with-loved-the-idea.html) that simply building a product that people want is not enough to guarantee success. He believes that reaching your targeted customers is the REAL challenge in this information overload era. At his first company, Infonautics, his team failed to get any meaningful traction for a fine product after marketing it for 4 years. No matter what marketing channels they used (e.g. online advertising, direct mail, print advertising, email advertising…etc), people just didn’t want to listen to their sales pitch.

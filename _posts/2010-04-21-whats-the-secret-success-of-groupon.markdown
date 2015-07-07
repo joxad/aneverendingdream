@@ -3,6 +3,11 @@ layout: post
 title:  "What's the Secret Success of Groupon?"
 date:   2010-04-21 01:00:00
 categories: startup
+image:
+  feature:  groupon.jpg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: 
 ---
 
 If you have never heard of [**Groupon**](http://groupon.com) recently, you probably are not working in the tech industry because it is [all](http://social.venturebeat.com/2010/04/20/groupon/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Venturebeat+%28VentureBeat%29) [over](http://dealbook.blogs.nytimes.com/2010/04/20/groupon-nabs-135-million-from-facebook-backer/) [the](http://www.marketingpilgrim.com/2010/04/tippr-patently-going-after-groupon.html) [blogosphere](http://techcrunch.com/2010/04/18/its-official-groupon-announces-that-1-35-billion-valuation-round/). After all, _growing from zero to US$1.35 billion valuation in 18 months_ is pretty AMAZING.

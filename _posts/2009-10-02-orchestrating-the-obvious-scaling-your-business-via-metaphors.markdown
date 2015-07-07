@@ -3,6 +3,11 @@ layout: post
 title:  "Orchestrating the Obvious: Scaling your Business via Metaphors"
 date:   2009-10-02 01:00:00
 categories: startup
+image:
+  feature: orchestrate.jpg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
 ---
 
 “[The Mind Reader](http://www.fastcompany.com/blog/alissa-walker/designerati/introducing-guest-blogger-steve-mccallion-consumer-experience)“, **Steve McCallion** from Ziba Design, recently wrote [a series of great posts](http://www.fastcompany.com/tag/steve-mccallion) about Consumer Experience on [Fast Company Magazine](http://www.fastcompany.com/).

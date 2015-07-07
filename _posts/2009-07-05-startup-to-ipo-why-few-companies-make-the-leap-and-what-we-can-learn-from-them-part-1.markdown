@@ -3,6 +3,11 @@ layout: post
 title:  "Startup to IPO: Why Few Companies Make the Leap and What We Can Learn from Them (Part 1)"
 date:   2009-07-05 01:00:00
 categories: startup
+image:
+  feature: opentable.jpg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
 ---
 
 During the [interview](http://mixergy.com/direct-marketing-techniques-launch/) of [Chance Barnett](http://www.chancebarnett.com/), the founder of [GIG.FM](http://gig.fm/), at [Mixergy.com](http://mixergy.com), Andrew and Chance mentioned that many startups just think about how to make their companies more viral, how to build a cooler product, and how to get on TechCrunch. Yet Chance, as a successful direct marketer, has a different mentality. He always thinks of how to get a dependable source of traffic and convert it into real profit.

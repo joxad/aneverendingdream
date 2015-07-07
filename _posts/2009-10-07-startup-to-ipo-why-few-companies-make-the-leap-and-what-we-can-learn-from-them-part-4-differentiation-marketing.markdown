@@ -3,6 +3,11 @@ layout: post
 title:  "Startup to IPO: Why Few Companies Make the Leap and What We Can Learn from Them (Part 4: Differentiation & Marketing)"
 date:   2009-10-07 01:00:00
 categories: startup
+image:
+  feature: salesforce.jpg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
 ---
 
 At a time that many people building safe businesses and [not enough startups trying to change the world](http://www.techcrunch.com/2009/09/17/memo-to-start-ups-you%E2%80%99re-supposed-to-be-changing-the-world-remember/), are we, as entrepreneurs, still supposed to [dream big](http://www.techcrunch.com/2009/09/17/is-toybots-dreaming-big-enough/)? Should we build a company that will go public someday? Or should an exciting startup define success on [a $170 million exits](http://500hats.typepad.com/500blogs/2009/10/flipping-is-good.html)?

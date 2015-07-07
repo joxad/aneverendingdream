@@ -3,6 +3,11 @@ layout: post
 title:  "Founders of LegalZoom Speaking at UCLA Entrepreneurship Week"
 date:   2008-05-05 01:00:00
 categories: entrepreneurship
+image:
+  feature: legalzoom.jpg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
 ---
 
 Three months ago, the founders of LegalZoom.com, Brian Liu and Brian Lee, were invited to speak at the UCLA Entrepreneurship Week. I was so excited about this because I’ve heard about their success multiple times in the past. Did you see their TV commercials on CNBC? ![:)](http://aneverendingdream.com/wp-includes/images/smilies/simple-smile.png)What’s better than listening to the founders talking about their own founding story?

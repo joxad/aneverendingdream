@@ -3,6 +3,11 @@ layout: post
 title:  "China Tops US in Web population – What does it mean?"
 date:   2008-09-03 01:00:00
 categories: industry
+image:
+  feature: china.jpg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
 ---
 
 According to a report released by the [China Internet Network Information Center](http://www.cnnic.org.cn/en/index/0O/index.htm) (CNNIC), the number of internet users in China has reached 253 million by the end of June 2008\. It’s almost the same as the whole US population (~304 million). The scary part is that 253 million is only 19.1% of the whole China population. If you look at the Internet penetration rate of other countries, like United States (72.3%), Japan (73.8%), South Korea (70.7%) and Hong Kong (69.5%), it is obvious that China has enormous growth potential for their Internet market. Imagine China’s Internet penetration rate increases to 70% – that is 910 million of Internet users, _almost 4 times the current Internet market in the US_.

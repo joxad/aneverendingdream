@@ -3,6 +3,11 @@ layout: post
 title:  "5 Examples of Using User-Selected Content to Increase User Engagement"
 date:   2009-06-26 01:00:00
 categories: product
+image:
+  feature: user-selected.jpg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
 ---
 
 ![user-selected-content](http://blog.primitus.com/wp-content/uploads/2009/06/user-selected-content1.jpg "user-selected-content")

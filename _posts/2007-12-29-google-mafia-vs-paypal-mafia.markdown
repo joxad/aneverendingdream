@@ -3,6 +3,11 @@ layout: post
 title:  "Google Mafia vs Paypal Mafia"
 date:   2007-12-29 01:00:00
 categories: startup
+image:
+  feature: google.jpg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
 ---
 
 With the newfound wealth from the Google’s stock options, it seems that ex-Googlers would like to follow the path of ex-Paypal employees, who are turning the IT industry upside down ([source: NY Times](http://www.nytimes.com/2007/12/28/business/28vc.html?ref=business)).

@@ -3,6 +3,11 @@ layout: post
 title:  "Concept to Company"
 date:   2005-09-06 01:00:00
 categories: startup
+image:
+  feature: stanford-business.jpg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
 ---
 
 While I was volunteering in [MIT/Stanford Venture Lab (VLAB)](http://www.vlab.org), I had a chance to meet with and listen to numerous CEOs and great executives. If you are living in Bay Area and interested in business, I canâ€™t think of a reason that you donâ€™t go to this SUPER GREAT event ([http://www.vlab.org](http://www.vlab.org)). Volunteers can also go to those meetings for free.

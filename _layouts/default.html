@@ -4,49 +4,22 @@
   {% include head.html %}
 
   <body>
-    <!-- Target for toggling the sidebar '.sidebar-checkbox' is for regular
-     styles, '#sidebar-checkbox' for behavior. Credit: @mdo -->
-    <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+    {% if page.url != '/index.html' %}
+      <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+      {% include sidebar-nav.html %}
+      {% include menu.html %}
+    {% endif %}
 
-    {% include sidebar-nav.html %}
+    {{ content }}
 
-    <div class="postWrapper">
-      {% include metabar.html %}
+    {% if page.url != '/index.html' %}
+      {% include sidebar-toggle.html %}
+    {% endif %}
 
-      <article>
-        <section class="section--first is-imageBackgrounded">
-          <div class="container">
-            <p>{{ site.name }}<a class="extra" href="{{ site.baseurl }}/">home</a></p>
-          </div>
-        </section>
-        <section class="section--last">
-          <div class="container container--content">
-
-          {{ content }}
-
-          </div>
-        </section>
-        <footer>
-
-        </footer>
-      </article>
-
-      <div class="blockGroup">
-        <div class="blockGroup-list">
-          <div class="block">
-            <div class="block-postMeta"></div>
-            <div class="block-content">
-              <article class="postArticle postArticle--short">
-
-              </article>
-            </div>
-          </div>
-        </div>
-      </div>
-
-    </div>
-
-    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+    {% if page.url == '/index.html' %}
+      {% include subscribe.html %}
+      {% include footer.html %}
+    {% endif %}
 
     {% include footer-scripts.html %}
   </body>

@@ -5,6 +5,9 @@ var gulp = require('gulp'),
     minifycss = require('gulp-minify-css'),
     rename = require('gulp-rename'),
     postcss = require('gulp-postcss'),
+    imageResize = require('gulp-image-resize'),
+    parallel = require("concurrent-transform"),
+    os = require("os"),
     cp = require('child_process');
 
 var messages = {
@@ -35,8 +38,7 @@ gulp.task('browser-sync', ['styles', 'jekyll-build'], function() {
     server: {
       baseDir: '_site'
     },
-    startPath: "/index.html",
-    port: 9001
+    startPath: "/index.html"
   });
 });
 
@@ -67,18 +69,31 @@ gulp.task('styles', function() {
 });
 
 /**
+ * Automatically resize post feature images and turn them into thumbnails
+ */
+gulp.task("thumbnails", function () {
+  gulp.src("assets/images/hero/*.{jpg,png}")
+    .pipe(parallel(
+      imageResize({ width : 350 }),
+      os.cpus().length
+    ))
+    .pipe(gulp.dest("assets/images/thumbnail"));
+});
+
+/**
  * Watch scss files for changes & recompile
  * Watch html/md files, run jekyll & reload BrowserSync
  */
 gulp.task('watch', function() {
   gulp.watch('_scss/**/*.scss', ['styles']);
-  gulp.watch(['*.html', '_posts/*.markdown', 'assets/javascripts/**.js', 'assets/images/**', 'assets/fonts/**', '_layouts/**','_includes/**', 'assets/css/**'], ['jekyll-rebuild']);
+  gulp.watch('assets/images/hero/*.{jpg,png}', ['thumbnails']);
+  gulp.watch(['*.html', '*.txt', 'about/**', '_posts/*.markdown', 'assets/javascripts/**.js', 'assets/images/**', 'assets/fonts/**', '_layouts/**','_includes/**', 'assets/css/**'], ['jekyll-rebuild']);
 });
 
 /**
  * Default task, running just `gulp` will compile the sass,
  * compile the jekyll site, launch BrowserSync & watch files.
  */
-gulp.task('default', ['styles', 'browser-sync', 'watch'], function() {
+gulp.task('default', ['styles', 'thumbnails', 'browser-sync', 'watch'], function() {
 
 });

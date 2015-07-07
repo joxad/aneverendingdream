@@ -3,6 +3,11 @@ layout: post
 title:  "Meeting Jack Welch"
 date:   2005-06-23 01:00:00
 categories: business
+image:
+  feature: jack-welch.jpg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: darker
 ---
 
 I have numerous special experiences when I study in Bay Area. But the most memorable one should be this one — meeting [_Jack Welch_](http://en.wikipedia.org/wiki/Jack_Welch).

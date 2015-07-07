@@ -3,6 +3,11 @@ layout: post
 title:  "Startup mistakes I made in the first 2 years"
 date:   2012-06-20 01:00:00
 categories: startup
+image:
+  feature: startup-mistakes.jpg
+  topPosition: -100px
+bgContrast: dark
+bgGradientOpacity: darker
 ---
 
 It has been quite a [journey](http://primitus.tumblr.com/) since I wrote my last [blog post](http://aneverendingdream.com/opportunity-of-a-lifetime-act-now/) here. In the past two years, I’ve started [a company](http://primitus.com), met [a great co-founder](http://twitter.com/victorlamhk), built [a talented team](http://www.linkedin.com/company/primitus), and launched our [first product](http://resumetracker.com), which was mentioned on [TechCrunch](http://jp.techcrunch.com/archives/jp-20100725-resume-tracker-help-the-recruiting-for-small-business-by-social-web/) [twice](http://techcrunch.com/2010/09/26/from-accelerate-2010-in-singapore-list-of-asias-top-50-apps/).
@@ -100,6 +105,6 @@ And for other [entrepreneurs in the arena](http://techcrunch.com/2007/10/12/the-
 
 Good luck and have an exciting journey.
 
-> “Every company had roadblocks and challenges, and at each step and with each setback, I became smarter.” – Mark Pincus
+<blockquote class="largeQuote">“Every company had roadblocks and challenges, and at each step and with each setback, I became smarter.” – Mark Pincus</blockquote>
 
 Photo Credit: [David Chu @Flickr](http://www.flickr.com/photos/david_blue/)
