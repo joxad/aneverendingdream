@@ -54,7 +54,12 @@ p {
   letter-spacing: .01rem;
   margin-top: $leading;
   margin-bottom: 0;
-  }
+}
+
+p.u--startsWithDoubleQuote {
+  text-indent: -0.43em;
+}
+
 ul,
 ol {
   margin-top: $leading;

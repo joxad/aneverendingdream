@@ -252,6 +252,10 @@ p {
   margin-bottom: 0;
 }
 
+p.u--startsWithDoubleQuote {
+  text-indent: -0.43em;
+}
+
 ul,
 ol {
   margin-top: 1.5rem;
@@ -1691,6 +1695,19 @@ body {
   .section--frontpage,
   .section--frontpage ~ .post-featuredImage {
     height: 7.5rem;
+  }
+}
+
+.section--about,
+.section-backgroundImage,
+.section--about ~ .post-featuredImage {
+  height: 36rem;
+}
+@media (max-width: 767px) {
+  .section--about,
+  .section-backgroundImage,
+  .section--about ~ .post-featuredImage {
+    height: 30rem;
   }
 }
 

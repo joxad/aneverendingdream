@@ -27,6 +27,16 @@
   }
 }
 
+.section--about,
+.section-backgroundImage,
+.section--about ~ .post-featuredImage {
+  height: 24 * $leading;
+
+  @media (max-width: $screen-xs-max) {
+    height: 20 * $leading;
+  }
+}
+
 // Inspired by SQUARESPACE
 
 .section-backgroundImage {
