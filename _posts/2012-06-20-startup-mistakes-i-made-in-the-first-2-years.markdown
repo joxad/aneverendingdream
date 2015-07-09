@@ -8,6 +8,7 @@ image:
   topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker
+syntaxHighlighter: yes
 ---
 
 It has been quite a [journey](http://primitus.tumblr.com/) since I wrote my last [blog post](http://aneverendingdream.com/opportunity-of-a-lifetime-act-now/) here. In the past two years, I’ve started [a company](http://primitus.com), met [a great co-founder](http://twitter.com/victorlamhk), built [a talented team](http://www.linkedin.com/company/primitus), and launched our [first product](http://resumetracker.com), which was mentioned on [TechCrunch](http://jp.techcrunch.com/archives/jp-20100725-resume-tracker-help-the-recruiting-for-small-business-by-social-web/) [twice](http://techcrunch.com/2010/09/26/from-accelerate-2010-in-singapore-list-of-asias-top-50-apps/).

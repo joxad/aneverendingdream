@@ -47,6 +47,9 @@ https://suitcss.github.io/
 gulp.js
 http://gulpjs.com/
 
+Prism (syntax highlighter)
+http://prismjs.com/
+
 Browsersync
 http://www.browsersync.io/
 

@@ -87,7 +87,7 @@ gulp.task("thumbnails", function () {
 gulp.task('watch', function() {
   gulp.watch('_scss/**/*.scss', ['styles']);
   gulp.watch('assets/images/hero/*.{jpg,png}', ['thumbnails']);
-  gulp.watch(['*.html', '*.txt', 'about/**', '_posts/*.markdown', 'assets/javascripts/**.js', 'assets/images/**', 'assets/fonts/**', '_layouts/**','_includes/**', 'assets/css/**'], ['jekyll-rebuild']);
+  gulp.watch(['*.html', '*.txt', 'about/**', '_posts/*.markdown', 'assets/javascripts/**/**.js', 'assets/images/**', 'assets/fonts/**', '_layouts/**','_includes/**', 'assets/css/**'], ['jekyll-rebuild']);
 });
 
 /**
