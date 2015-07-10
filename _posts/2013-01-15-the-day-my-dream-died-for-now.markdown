@@ -24,7 +24,7 @@ It was a long journey and I felt burned out with the ups and downs. Aside from t
 
 At that moment, I realized I needed a break to think about what to do next.
 
-<blockquote class="largeQuote">“Failure is sometimes the best option if you view the process of entrepreneurship as a lifelong journey.” - Brad Feld</blockquote>
+<blockquote class="largeQuote">“Failure is sometimes the best option if you view the process of entrepreneurship as a lifelong journey.” <br/> - Brad Feld</blockquote>
 
 #### Thank you
 
