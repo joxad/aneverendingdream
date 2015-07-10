@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Startup mistakes I made in the first 2 years"
+title:  "Startup Mistakes I Made in the First 2 Years"
 date:   2012-06-20 01:00:00
 categories: startup
 image:

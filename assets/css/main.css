@@ -287,6 +287,9 @@ blockquote {
     margin-left: -19px;
   }
 }
+blockquote.u--startsWithDoubleQuote {
+  text-indent: -0.54em;
+}
 blockquote.largeQuote {
   line-height: 1.4;
   text-align: center;
@@ -346,11 +349,11 @@ h4 {
 }
 
 h5 {
-  font-size: 0.6665rem;
+  font-size: 1.0664rem;
 }
 
 h6 {
-  font-size: 0.44433rem;
+  font-size: 0.9331rem;
 }
 
 a {
@@ -412,6 +415,14 @@ hr {
 .is-darkBackgrounded a:hover,
 .is-darkBackgrounded a:visited {
   color: #fff;
+}
+
+.img {
+  margin-top: 1.5rem;
+}
+
+.img--fullContainer img {
+  width: 100%;
 }
 
 html,
