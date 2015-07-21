@@ -419,10 +419,61 @@ hr {
 
 .img {
   margin-top: 1.5rem;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
 }
 
 .img--fullContainer img {
   width: 100%;
+}
+
+.img--5xLeading {
+  height: 7.5rem;
+}
+
+.img--6xLeading {
+  height: 9rem;
+}
+
+.img--7xLeading {
+  height: 10.5rem;
+}
+
+.img--8xLeading {
+  height: 12rem;
+}
+
+.img--9xLeading {
+  height: 13.5rem;
+}
+
+.img--10xLeading {
+  height: 15rem;
+}
+
+.img--11xLeading {
+  height: 16.5rem;
+}
+
+.img--12xLeading {
+  height: 18rem;
+}
+
+.img--13xLeading {
+  height: 19.5rem;
+}
+
+.img--14xLeading {
+  height: 21rem;
+}
+
+.img--15xLeading {
+  height: 22.5rem;
+}
+
+.img--16xLeading {
+  height: 24rem;
 }
 
 html,

@@ -20,7 +20,7 @@ To be honest, I was freaking out emotionally. I was on the hook for more than a 
 
 More importantly, I couldn't face the reality that I've let my team down. All the promises I made became lies. To build a world-class startup together? Who cares anymore. As a founder, that was a tough pill to swallow. Because, at the end of the day, it was my responsibility to steer the ship. I logically knew that I had tried my best to save the company, but I guess emotions aren’t always logical.
 
-It was a long journey and I felt burned out with the ups and downs. Aside from the emotional trauma, a startup failure may lead you to doubt your own competency. You may even wonder if you are good enough to do this.
+It was a long journey and I felt burned out with the ups and downs. Aside from the emotional trauma, a startup failure may lead you to doubt your own competence. You may even wonder if you are good enough to do this.
 
 At that moment, I realized I needed a break to think about what to do next.
 
@@ -56,7 +56,7 @@ Secondly, **get some help because you are not alone**. When you are in The Strug
 
 Finally, **find a way to try again**. Failure doesn't limit dreaming and innovation - [shame does](http://blogs.hbr.org/johnson/2012/10/put-failure-in-its-place.html). Once we pull shame out of the equation, we can eliminate the drag on innovating and gain the lift we need to accelerate back into the game.
 
-<div class="img img--fullContainer"><img src="/assets/images/posts/shame.png"></div>
+<div class="img img--fullContainer img--7xLeading" style="background-image: url(..//assets/images/posts/shame.png);"></div>
 
 To be honest, I still haven't figured out what I will do next but I know I need to find ways to improve myself and to better prepare myself for future redemption.
 
