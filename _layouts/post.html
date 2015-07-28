@@ -64,15 +64,11 @@ layout: default
     {% if page.previous.url %}
       <section class="section--prePost is-darkBackgrounded u-table">
         <div class="section-backgroundImage section-backgroundImage--previousPage">
-          <img
+          <img class="post-featuredImage"
           {% if page.previous.image.feature %}
             src="{{ site.baseurl }}assets/images/hero/{{ page.previous.image.feature }}"
           {% endif %}
-          style="
-          {% if page.previous.image.topPosition %}
-            top:{{ page.previous.image.topPosition }};
-          {% endif %}
-          " alt="">
+          style="top:0" alt="">
         </div>
         <div class="section-gradient
         {% if page.previous.bgGradientOpacity == "darker" %}

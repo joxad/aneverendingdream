@@ -8,11 +8,7 @@
       <li>
         {% if post.image.feature %}
           <a href="{{ post.url }}" class="sidebar-recentPosts-image-wrapper">
-            <img src="{{site.baseurl}}assets/images/thumbnail/{{ post.image.feature }}" style="
-            {% if post.image.topPosition %}
-              top:{{ post.image.topPosition }};
-            {% endif %}
-            " alt="">
+            <img src="{{site.baseurl}}assets/images/thumbnail/{{ post.image.feature }}" style="" alt="">
           </a>
         {% endif %}
         <a href="{{ post.url }}">{{ post.title }}</a>

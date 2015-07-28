@@ -25,7 +25,7 @@ title: A Neverending Dream
       <ul class="blockGroup-list">
         {% for post in site.posts %}
           <li class="block">
-            <div class="postArticle-wrapper">
+            <card class="postArticle-wrapper">
               <article class="postArticle postArticle--short">
                 {% if post.image.feature %}
                   <a href="{{ post.url }}">
@@ -41,7 +41,7 @@ title: A Neverending Dream
                 <a class="postArticle-title" href="{{ post.url }}">{{ post.title }}</a>
               </article>
               <div class="block-postMeta">{{ post.date | date_to_string }}</div>
-            </div>
+            </card>
           </li>
         {% endfor %}
       </ul>

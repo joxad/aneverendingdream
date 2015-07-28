@@ -89,7 +89,7 @@ blockquote {
   }
 
   &.u--startsWithDoubleQuote {
-    text-indent: -0.54em;
+    text-indent: -0.40em;
   }
 
   &.largeQuote {
@@ -104,6 +104,10 @@ blockquote {
       margin: $leading 0 0;
       font-size: $font-M;
       padding-left: 0;
+    }
+
+    a {
+      background-position: 0 42px;
     }
   }
 }

@@ -288,7 +288,7 @@ blockquote {
   }
 }
 blockquote.u--startsWithDoubleQuote {
-  text-indent: -0.54em;
+  text-indent: -0.40em;
 }
 blockquote.largeQuote {
   line-height: 1.4;
@@ -304,6 +304,9 @@ blockquote.largeQuote {
     font-size: 1.333rem;
     padding-left: 0;
   }
+}
+blockquote.largeQuote a {
+  background-position: 0 42px;
 }
 
 /* Headings */
@@ -2107,13 +2110,14 @@ body {
   background: #fff;
   width: 100%;
   padding-bottom: 3rem;
-  border-bottom: 1px solid #d5d5d5;
+  -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+          box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
 }
 .blockGroup-list .postArticle-wrapper:hover {
   -webkit-transition: -webkit-box-shadow 0.2s cubic-bezier(0.4, 0, 0.2, 1);
           transition: box-shadow 0.2s cubic-bezier(0.4, 0, 0.2, 1);
-  -webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.15);
-          box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+  -webkit-box-shadow: 0 4px 10px 1px rgba(0, 0, 0, 0.2);
+          box-shadow: 0 4px 10px 1px rgba(0, 0, 0, 0.2);
 }
 .blockGroup-list .postArticle a {
   color: #222;
@@ -2323,6 +2327,8 @@ body {
 
 .section--prePost .section-backgroundImage img {
   min-height: 16.5rem;
+  position: relative !important;
+  top: 0;
 }
 
 .fullscreenModal {
