@@ -1,23 +1,40 @@
 
 # Syntax highlighting
-markdown: 			 redcarpet
-highlighter: 		 pygments
+markdown:            redcarpet
+highlighter:         pygments
 
 # Permalinks
 permalink:           /:title
 relative_permalinks: true
 
 # Setup
+timezone:            Hong Kong
+locale:              en_us
 name:				         A Never-ending Dream
 title:               A Never-ending Dream
 tagline:             'learning how to build a lasting company'
 description:         'learning how to build a lasting company'
 url:                 http://www.aneverendingdream.com
+rss:                 http://feeds.feedburner.com/anever-endingdream
 baseurl:             '/'
+baseurl_posts_img:   '/assets/images/posts/'
+baseurl_featured_img: '/assets/images/hero/'
+baseurl_featured_thumbnail: '/assets/images/thumbnail/'
+baseurl_javascripts: '/assets/javascripts/'
+icon:                your site icon path # /assets/img/icon.png [best 300px X 300px]
 
 author:
   name:           	 'Vincent Chan'
-  url:            	 https://twitter.com/vincentchan
+  url:            	 http://www.aneverendingdream.com/about/
+  facebook:          vincent5
+  twitter:           vincentchan
+  linkedin:          vincentchanhk
+  dribbble:          vincentchan
+  pinterest:         vincentchan
+  kiva:              vincentchan
+
+fb_admins:           2532795
+fb_appid:            your facebook app id
 
 # Server
 destination:      	 ./_site
