@@ -126,7 +126,7 @@ Remember that excessive people-pleasing after product-market fit can ruin an ini
 
 Although more startups [appreciate the value of design](http://www.fastcodesign.com/1670679/why-good-design-is-finally-a-bottom-line-investment) now, many engineering-focus teams still treat designers as second class citizens within the company. They often put technology ahead of customer experience. They debate about tech stacks before first understanding whether people want such a product. When designers finally get involved, it’s way too late in the game to get the real value of design. The damage has already been done, and now designers are just trying to put a coat of paint on the mess. In this approach, they only [focus on visual design but not product design](http://www.wired.com/2015/05/google-ventures-not-every-product-needs-beautiful/), which is arguably the most important part of what a designer do.
 
-<blockquote class="largeQuote">“You‘ve got to start with the customer experience and work back toward the technology - not the other way around.” - Steve Jobs</blockquote>
+<blockquote class="largeQuote">“You’ve got to start with the customer experience and work back toward the technology - not the other way around.” - Steve Jobs</blockquote>
 
 The path from idea to finished product can be long sometimes, but design provides us a shortcut, prototyping, to get feedback from potential users quickly. More importantly, it helps us validate our assumptions and answer important questions. After all, the biggest loss usually turns out to be the opportunity cost of what the startup should have been doing instead, so this early product validation is the easiest way to test whether you are wasting time and money.
 
