@@ -39,7 +39,7 @@ Saying “no” to the slippery slope of temporary patches may feel painful in t
 
 Don't just measure costs in dollars and hours. Try to measure them in team morale and lost opportunities as well.
 
-#### 3. Leverage decision-marketing frameworks
+#### 3. Leverage decision-making frameworks
 
 In my previous startup, I often relied on gut feeling to do things on an ad hoc basis. Without guidelines for core operational processes and workflows, I ended up losing focus on execution and let the team run sideways. Now I've learned to use different decision-making frameworks to act as checklists to ensure the company not leaving out important details when making big decisions.
 
